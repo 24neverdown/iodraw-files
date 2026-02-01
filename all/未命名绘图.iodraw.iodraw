@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="30" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-3" value="移动端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-1">
-          <mxGeometry x="290" y="30" width="170" height="40" as="geometry" />
+          <mxGeometry x="285" y="30" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-4" value="大屏终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-1">
           <mxGeometry x="530" y="30" width="170" height="40" as="geometry" />
