@@ -20,7 +20,7 @@
           <mxGeometry x="130" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-79" value="熔断限流模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-76">
-          <mxGeometry x="40" y="190" width="110" height="40" as="geometry" />
+          <mxGeometry x="40" y="190" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-80" value="监控中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-76">
           <mxGeometry x="190" y="190" width="90" height="40" as="geometry" />
