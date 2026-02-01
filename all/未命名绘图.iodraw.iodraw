@@ -119,13 +119,13 @@
           <mxGeometry x="1100" y="1760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-207" value="智能咨询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1840" width="70" height="30" as="geometry" />
+          <mxGeometry x="1100" y="1810" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-208" value="风险预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1840" width="70" height="30" as="geometry" />
+          <mxGeometry x="1190" y="1810" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-209" value="个性化服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1880" width="70" height="30" as="geometry" />
+          <mxGeometry x="1100" y="1860" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-210" value="协同育人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1190" y="1880" width="70" height="30" as="geometry" />
