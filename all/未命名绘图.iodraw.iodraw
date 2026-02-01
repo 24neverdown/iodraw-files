@@ -23,25 +23,25 @@
           <mxGeometry x="560" y="2030" width="500" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-175" value="模型部署" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-174">
-          <mxGeometry x="20" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="35" y="31" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-176" value="模型配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-174">
-          <mxGeometry x="130" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="158" y="31" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-177" value="模型迭代" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-174">
-          <mxGeometry x="240" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="282" y="31" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-178" value="模型监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-174">
-          <mxGeometry x="390" y="40" width="90" height="40" as="geometry" />
+          <mxGeometry x="405" y="31" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-179" value="参数优化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-174">
-          <mxGeometry x="20" y="90" width="140" height="30" as="geometry" />
+          <mxGeometry x="35" y="81" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-180" value="多模型切换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-174">
-          <mxGeometry x="180" y="90" width="140" height="30" as="geometry" />
+          <mxGeometry x="195" y="81" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-181" value="性能评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-174">
-          <mxGeometry x="340" y="90" width="140" height="30" as="geometry" />
+          <mxGeometry x="355" y="81" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-182" value="AI 统一接入层" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="560" y="1900" width="500" height="120" as="geometry" />
