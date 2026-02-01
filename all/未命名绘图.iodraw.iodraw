@@ -50,10 +50,10 @@
           <mxGeometry x="520" y="1900" width="720" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-154" value="全国学生&#xa;资助系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-153">
-          <mxGeometry x="20" y="30" width="100" height="30" as="geometry" />
+          <mxGeometry x="20" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-155" value="邮政 EMS&#xa;系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-153">
-          <mxGeometry x="140" y="10" width="100" height="30" as="geometry" />
+          <mxGeometry x="220" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-156" value="征兵网" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-153">
           <mxGeometry x="260" y="10" width="100" height="30" as="geometry" />
