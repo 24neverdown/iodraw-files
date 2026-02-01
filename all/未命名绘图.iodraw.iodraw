@@ -41,10 +41,7 @@
           <mxGeometry x="640" y="40" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-13" value="AI 思政导师" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-5">
-          <mxGeometry x="540" y="40" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-44" value="AI 学业" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-5">
-          <mxGeometry x="360" y="10" width="80" height="50" as="geometry" />
+          <mxGeometry x="370" y="10" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-14" value="业务应用层" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="720" height="150" as="geometry" />
