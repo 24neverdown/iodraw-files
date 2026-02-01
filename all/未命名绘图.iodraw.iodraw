@@ -41,19 +41,16 @@
           <mxGeometry x="1060" y="1590" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-149" value="人脸识别闸机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
-          <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
+          <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-150" value="宿舍门禁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
-          <mxGeometry x="20" y="100" width="140" height="40" as="geometry" />
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-151" value="自助打印机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
-          <mxGeometry x="20" y="160" width="140" height="40" as="geometry" />
+          <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-152" value="其他设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
-          <mxGeometry x="20" y="220" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-160" value="硬件&lt;div&gt;适配&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
-          <mxGeometry x="-40" y="110" width="80" height="20" as="geometry" />
+          <mxGeometry x="20" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-153" value="外部平台" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;horizontal=1;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="520" y="1900" width="720" height="80" as="geometry" />
@@ -87,6 +84,9 @@
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-164" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6cD7CB98vQ1Wj6HiruUZ-144" target="6cD7CB98vQ1Wj6HiruUZ-153">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-160" value="硬件&lt;div&gt;适配&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1700" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
