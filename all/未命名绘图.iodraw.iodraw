@@ -8,16 +8,16 @@
           <mxGeometry x="520" y="1590" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-140" value="教务系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
-          <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
+          <mxGeometry x="31" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-141" value="财务系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
-          <mxGeometry x="20" y="100" width="140" height="40" as="geometry" />
+          <mxGeometry x="31" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-142" value="就业宝系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
-          <mxGeometry x="20" y="160" width="140" height="40" as="geometry" />
+          <mxGeometry x="31" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-143" value="其他系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
-          <mxGeometry x="20" y="220" width="140" height="40" as="geometry" />
+          <mxGeometry x="31" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-144" value="系统集成平台" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="730" y="1590" width="300" height="280" as="geometry" />
