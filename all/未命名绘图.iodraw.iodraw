@@ -104,13 +104,13 @@
           <mxGeometry x="1100" y="2130" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-202" value="PC 端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-201">
-          <mxGeometry x="15" y="35" width="130" height="30" as="geometry" />
+          <mxGeometry x="36" y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-203" value="移动端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-201">
-          <mxGeometry x="15" y="75" width="130" height="30" as="geometry" />
+          <mxGeometry x="36" y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-204" value="智能终端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-201">
-          <mxGeometry x="15" y="115" width="130" height="30" as="geometry" />
+          <mxGeometry x="36" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-205" value="AI 赋能体系" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1760" width="500" height="30" as="geometry" />
