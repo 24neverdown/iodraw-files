@@ -86,10 +86,10 @@
           <mxGeometry x="40" y="420" width="720" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-28" value="微服务框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-27">
-          <mxGeometry x="20" y="40" width="170" height="40" as="geometry" />
+          <mxGeometry x="40" y="40" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-29" value="数据中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-27">
-          <mxGeometry x="160" y="40" width="170" height="40" as="geometry" />
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-29" value="数据管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-27">
+          <mxGeometry x="289" y="40" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-30" value="技术中台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-27">
           <mxGeometry x="540" y="40" width="170" height="40" as="geometry" />
