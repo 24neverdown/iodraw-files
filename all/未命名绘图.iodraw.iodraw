@@ -104,10 +104,10 @@
           <mxGeometry x="560" y="1130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-135" value="治理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1150" width="40" height="20" as="geometry" />
+          <mxGeometry x="720" y="1130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-136" value="存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="915" y="1150" width="40" height="20" as="geometry" />
+          <mxGeometry x="920" y="1130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-137" value="共享" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1150" width="40" height="20" as="geometry" />
