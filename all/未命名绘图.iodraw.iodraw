@@ -1,9 +1,93 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="9OQJMYSd5MnPe94Fe5Fq">
-    <mxGraphModel dx="811" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="-546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-139" value="校内系统" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1590" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-140" value="教务系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
+          <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-141" value="财务系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
+          <mxGeometry x="20" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-142" value="就业宝系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
+          <mxGeometry x="20" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-143" value="其他系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-139">
+          <mxGeometry x="20" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-144" value="系统集成平台" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1590" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-145" value="适配层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-144">
+          <mxGeometry x="20" y="40" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-146" value="数据转换层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-144">
+          <mxGeometry x="20" y="110" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-147" value="业务逻辑层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-144">
+          <mxGeometry x="20" y="180" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-148" value="智能设备" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1590" width="180" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-149" value="人脸识别闸机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
+          <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-150" value="宿舍门禁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
+          <mxGeometry x="20" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-151" value="自助打印机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
+          <mxGeometry x="20" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-152" value="其他设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
+          <mxGeometry x="20" y="220" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-153" value="外部平台" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;horizontal=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1900" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-154" value="全国学生&#xa;资助系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-153">
+          <mxGeometry x="20" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-155" value="邮政 EMS&#xa;系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-153">
+          <mxGeometry x="140" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-156" value="征兵网" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-153">
+          <mxGeometry x="260" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-157" value="其他平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-153">
+          <mxGeometry x="380" y="10" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-158" value="统一集成平台" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1540" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-159" value="标准化接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1720" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-160" value="硬件适配协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1720" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-161" value="专用接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1880" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-162" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6cD7CB98vQ1Wj6HiruUZ-139" target="6cD7CB98vQ1Wj6HiruUZ-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-163" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6cD7CB98vQ1Wj6HiruUZ-148" target="6cD7CB98vQ1Wj6HiruUZ-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-164" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6cD7CB98vQ1Wj6HiruUZ-144" target="6cD7CB98vQ1Wj6HiruUZ-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-165" value="数据格式转换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1610" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-166" value="业务逻辑适配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1680" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
