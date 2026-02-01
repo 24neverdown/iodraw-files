@@ -41,10 +41,10 @@
           <mxGeometry x="276" y="10" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-45" value="数字人管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-5">
-          <mxGeometry x="390" y="70" width="320" height="50" as="geometry" />
+          <mxGeometry x="490" y="70" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-46" value="知识管理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-5">
-          <mxGeometry x="238" y="70" width="200" height="50" as="geometry" />
+          <mxGeometry x="276" y="70" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-14" value="业务应用层" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="720" height="150" as="geometry" />
