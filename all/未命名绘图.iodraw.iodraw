@@ -40,7 +40,7 @@
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-113" value="数据治理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-109">
           <mxGeometry x="38" y="340" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-114" value="数据中心" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-114" value="数据管理" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="750" y="950" width="180" height="420" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-115" value="基础数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-114">
@@ -110,7 +110,7 @@
           <mxGeometry x="920" y="1130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-137" value="共享" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1150" width="40" height="20" as="geometry" />
+          <mxGeometry x="1120" y="1130" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
