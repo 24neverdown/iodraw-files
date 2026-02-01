@@ -64,8 +64,8 @@
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-158" value="统一集成平台" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1540" width="720" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-159" value="标准化接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1720" width="60" height="20" as="geometry" />
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-159" value="标准&lt;div&gt;接口&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1744" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-160" value="硬件适配协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1720" width="80" height="20" as="geometry" />
