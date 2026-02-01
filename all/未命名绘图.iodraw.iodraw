@@ -68,22 +68,22 @@
           <mxGeometry x="620" y="20" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-21" value="智慧资助" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-14">
-          <mxGeometry x="520" y="100" width="90" height="35" as="geometry" />
+          <mxGeometry x="620" y="90" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-22" value="智慧就业" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-14">
           <mxGeometry x="40" y="90" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-23" value="智慧武装" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-14">
-          <mxGeometry x="110" y="90" width="90" height="35" as="geometry" />
+          <mxGeometry x="156" y="90" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-24" value="智慧档案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-14">
-          <mxGeometry x="210" y="90" width="90" height="35" as="geometry" />
+          <mxGeometry x="272" y="90" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-25" value="一站式学生&#xa;办事大厅" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-14">
-          <mxGeometry x="310" y="90" width="90" height="35" as="geometry" />
+          <mxGeometry x="388" y="90" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-26" value="离校服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-14">
-          <mxGeometry x="410" y="90" width="90" height="35" as="geometry" />
+          <mxGeometry x="504" y="90" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-27" value="基础支撑层" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="720" height="90" as="geometry" />
