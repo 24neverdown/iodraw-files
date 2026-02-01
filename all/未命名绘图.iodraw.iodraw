@@ -8,16 +8,16 @@
           <mxGeometry x="560" y="2170" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-170" value="学工知识库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-169">
-          <mxGeometry x="20" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="30" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-171" value="政策法规库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-169">
-          <mxGeometry x="140" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="150" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-172" value="案例经验库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-169">
-          <mxGeometry x="260" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-173" value="FAQ 知识库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-169">
-          <mxGeometry x="380" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="390" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-174" value="模型管理平台" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="560" y="2030" width="500" height="130" as="geometry" />
