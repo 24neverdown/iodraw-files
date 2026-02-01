@@ -89,16 +89,16 @@
           <mxGeometry x="1100" y="1900" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-197" value="迎新管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-196">
-          <mxGeometry x="15" y="35" width="130" height="30" as="geometry" />
+          <mxGeometry x="16" y="35" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-198" value="智慧心理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-196">
-          <mxGeometry x="15" y="75" width="130" height="30" as="geometry" />
+          <mxGeometry x="16" y="75" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-199" value="智慧就业" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-196">
-          <mxGeometry x="15" y="115" width="130" height="30" as="geometry" />
+          <mxGeometry x="16" y="115" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-200" value="学生画像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-196">
-          <mxGeometry x="15" y="155" width="130" height="30" as="geometry" />
+          <mxGeometry x="16" y="155" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-201" value="用户交互端" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1;horizontal=0;startSize=25;" vertex="1" parent="1">
           <mxGeometry x="1100" y="2130" width="160" height="160" as="geometry" />
