@@ -52,6 +52,9 @@
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-152" value="其他设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
           <mxGeometry x="20" y="220" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-160" value="硬件&lt;div&gt;适配&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-148">
+          <mxGeometry x="-40" y="110" width="80" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-153" value="外部平台" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;horizontal=1;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="520" y="1900" width="720" height="80" as="geometry" />
         </mxCell>
@@ -72,9 +75,6 @@
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-159" value="标准&lt;div&gt;接口&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="687" y="1700" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6cD7CB98vQ1Wj6HiruUZ-160" value="硬件适配协议" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1720" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-161" value="专用接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1870" width="60" height="20" as="geometry" />
