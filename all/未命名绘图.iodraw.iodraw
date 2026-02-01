@@ -26,7 +26,7 @@
           <mxGeometry x="20" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-109" value="数据处理层" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="590" y="950" width="140" height="350" as="geometry" />
+          <mxGeometry x="590" y="950" width="140" height="420" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-110" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-109">
           <mxGeometry x="20" y="40" width="100" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="20" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-114" value="数据中心" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="750" y="970" width="180" height="380" as="geometry" />
+          <mxGeometry x="750" y="950" width="180" height="420" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-115" value="基础数据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-114">
           <mxGeometry x="20" y="40" width="140" height="50" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="20" y="310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-120" value="数据共享层" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontStyle=1;horizontal=0;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="950" y="1020" width="180" height="280" as="geometry" />
+          <mxGeometry x="950" y="950" width="180" height="350" as="geometry" />
         </mxCell>
         <mxCell id="6cD7CB98vQ1Wj6HiruUZ-121" value="数据 API 网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="6cD7CB98vQ1Wj6HiruUZ-120">
           <mxGeometry x="20" y="40" width="140" height="40" as="geometry" />
